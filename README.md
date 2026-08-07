@@ -41,10 +41,6 @@ python src/app.py
 
 Soukaina Hlal
 
-Asma Daaou
 
-Abdlouadoud Elkhalfi
-
-Mohammed Elgharb
 
 Research conducted as part of the academic coursework for the first year of the Master's degree in Financial Engineering and Participatory Finance (IFPIA).
